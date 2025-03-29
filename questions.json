@@ -1,0 +1,316 @@
+{
+  "categorized_questions": {
+    "culture": [
+      {
+        "id": 1,
+        "text_en": "What are the traditional foods prepared during Diwali in Surat?",
+        "text_gu": "સુરતમાં દિવાળી દરમિયાન કયા પરંપરાગત ખાદ્ય પદાર્થો તૈયાર કરવામાં આવે છે?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      },
+      {
+        "id": 2,
+        "text_en": "What are the common traditional clothing styles worn in Surat?",
+        "text_gu": "સુરતમાં પહેરવામાં આવતા સામાન્ય પરંપરાગત વસ્ત્ર શૈલીઓ કઈ છે?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      },
+      {
+        "id": 3,
+        "text_en": "How is Navratri celebrated uniquely in Surat?",
+        "text_gu": "સુરતમાં નવરાત્રિ કેવી અનોખી રીતે ઉજવવામાં આવે છે?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      },
+      {
+        "id": 4,
+        "text_en": "What are the key differences in Surat's cultural festivals compared to other parts of Gujarat?",
+        "text_gu": "ગુજરાતના અન્ય ભાગોની તુલનામાં સુરતના સાંસ્કૃતિક ઉત્સવોમાં કઈ મુખ્ય તફાવતો છે?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      },
+      {
+        "id": 5,
+        "text_en": "How has Surat's cuisine evolved over the years?",
+        "text_gu": "વર્ષો દરમિયાન સુરતની રસોઈ કેવી રીતે વિકસિત થઈ છે?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      },
+      {
+        "id": 6,
+        "text_en": "What is the significance of Undhiyu in Surat's culinary traditions?",
+        "text_gu": "સુરતની રસોઈ પરંપરામાં ઉંધિયુનું શું મહત્વ છે?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      },
+      {
+        "id": 7,
+        "text_en": "How does Surat's culture reflect its diverse migrant population?",
+        "text_gu": "સુરતની સંસ્કૃતિ તેની વિવિધ સ્થળાંતરિત વસ્તીને કેવી રીતે પ્રતિબિંબિત કરે છે?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      },
+      {
+        "id": 8,
+        "text_en": "What are the top 10 restaurants in Surat?",
+        "text_gu": "સુરતના ટોચના 10 રેસ્ટોરન્ટ્સ કયા છે?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      }
+    ],
+    "economy": [
+      {
+        "id": 9,
+        "text_en": "What is Surat's contribution to India's diamond export industry?",
+        "text_gu": "ભારતના હીરા નિકાસ ઉદ્યોગમાં સુરતનો ફાળો શું છે?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      },
+      {
+        "id": 10,
+        "text_en": "How has Surat's textile industry evolved over time?",
+        "text_gu": "સમય સાથે સુરતનું ટેક્સ્ટાઇલ ઉદ્યોગ કેવી રીતે વિકસિત થયું છે?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      },
+      {
+        "id": 11,
+        "text_en": "What are the major trade hubs in Surat?",
+        "text_gu": "સુરતમાં મુખ્ય વેપાર કેન્દ્રો કયા છે?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      },
+      {
+        "id": 12,
+        "text_en": "How does Surat's economy compare to other major cities in Gujarat?",
+        "text_gu": "ગુજરાતના અન્ય મુખ્ય શહેરોની તુલનામાં સુરતની અર્થવ્યવસ્થા કેવી છે?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      },
+      {
+        "id": 13,
+        "text_en": "What are the key challenges faced by Surat's diamond industry?",
+        "text_gu": "સુરતના હીરા ઉદ્યોગ સામે કઈ મુખ્ય પડકારો છે?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      },
+      {
+        "id": 14,
+        "text_en": "How have Surat's small businesses adapted to globalization?",
+        "text_gu": "સુરતના નાના વ્યવસાયો વૈશ્વિકીકરણને કેવી રીતે અનુકૂળ થયા છે?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      },
+      {
+        "id": 15,
+        "text_en": "What is the role of Surat in India's gold and jewelry market?",
+        "text_gu": "ભારતના સોનેરી અને ઘરેણા બજારમાં સુરતની શું ભૂમિકા છે?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      },
+      {
+        "id": 16,
+        "text_en": "How does Surat's economy benefit from its coastal location?",
+        "text_gu": "સુરતની અર્થવ્યવસ્થા તેના તટીય સ્થાનથી કેવી રીતે લાભ પામે છે?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      },
+      {
+        "id": 17,
+        "text_en": "What government initiatives support Surat's textile industry?",
+        "text_gu": "સુરતના ટેક્સ્ટાઇલ ઉદ્યોગને ટેકો આપતી સરકારી પહેલ કઈ છે?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      },
+      {
+        "id": 18,
+        "text_en": "What are the major employment sectors in Surat?",
+        "text_gu": "સુરતમાં મુખ્ય રોજગાર ક્ષેત્રો કયા છે?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      }
+    ],
+    "history": [
+      {
+        "id": 19,
+        "text_en": "What is the historical significance of the Dutch Garden in Surat?",
+        "text_gu": "સુરતના ડચ ગાર્ડનનું ઐતિહાસિક મહત્વ શું છે?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      },
+      {
+        "id": 20,
+        "text_en": "Who was Gopi Talav named after, and what was its role in Surat's history?",
+        "text_gu": "ગોપી તળાવનું નામ કોણના નામે રાખવામાં આવ્યું હતું, અને સુરતના ઇતિહાસમાં તેની શું ભૂમિકા હતી?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      },
+      {
+        "id": 21,
+        "text_en": "What major historical events took place in Surat during the Mughal era?",
+        "text_gu": "મુઘલ યુગ દરમિયાન સુરતમાં કયા મુખ્ય ઐતિહાસિક ઘટનાઓ બની હતી?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      },
+      {
+        "id": 22,
+        "text_en": "How did Surat function as a major port city in medieval India?",
+        "text_gu": "મધ્યયુગીન ભારતમાં સુરત મુખ્ય બંદર શહેર તરીકે કેવી રીતે કાર્યરત હતું?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      },
+      {
+        "id": 23,
+        "text_en": "What influence did the British and Portuguese have on Surat's development?",
+        "text_gu": "બ્રિટિશ અને પોર્ટુગીઝનો સુરતના વિકાસ પર કેવો પ્રભાવ હતો?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      },
+      {
+        "id": 24,
+        "text_en": "What was Surat's role in India's independence movement?",
+        "text_gu": "ભારતના સ્વાતંત્ર્ય ચળવળમાં સુરતની શું ભૂમિકા હતી?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      },
+      {
+        "id": 25,
+        "text_en": "How have historical trade routes impacted Surat's growth?",
+        "text_gu": "ઐતિહાસિક વેપાર માર્ગોએ સુરતના વિકાસને કેવી રીતે પ્રભાવિત કર્યો છે?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      },
+      {
+        "id": 26,
+        "text_en": "What are the oldest surviving landmarks in Surat?",
+        "text_gu": "સુરતમાં સૌથી જૂના ટકી રહેલા સ્થાપત્યો કયા છે?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      },
+      {
+        "id": 27,
+        "text_en": "How did the Parsi community influence Surat's development?",
+        "text_gu": "પારસી સમુદાયે સુરતના વિકાસને કેવી રીતે પ્રભાવિત કર્યો?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      },
+      {
+        "id": 28,
+        "text_en": "What was the impact of the 1994 plague outbreak on Surat's history?",
+        "text_gu": "1994ના પ્લેગના પ્રસારનો સુરતના ઇતિહાસ પર શું પ્રભાવ પડ્યો હતો?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      }
+    ],
+    "tourism": [
+      {
+        "id": 29,
+        "text_en": "What are the key attractions of the Sardar Patel Museum in Surat?",
+        "text_gu": "સુરતના સરદાર પટેલ મ્યુઝિયમના મુખ્ય આકર્ષણો શું છે?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      },
+      {
+        "id": 30,
+        "text_en": "What makes Dumas Beach a unique tourist spot?",
+        "text_gu": "ડુમાસ બીચને અનોખું પર્યટન સ્થળ શું બનાવે છે?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      },
+      {
+        "id": 31,
+        "text_en": "What are some lesser-known historical sites in Surat worth visiting?",
+        "text_gu": "સુરતમાં કયા કેટલાક ઓછા જાણીતા ઐતિહાસિક સ્થળો મુલાકાત લેવા યોગ્ય છે?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      },
+      {
+        "id": 32,
+        "text_en": "How does Surat promote tourism to domestic and international travelers?",
+        "text_gu": "સુરત ઘરેલુ અને આંતરરાષ્ટ્રીય પ્રવાસીઓ માટે પર્યટનને કેવી રીતે પ્રોત્સાહન આપે છે?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      },
+      {
+        "id": 33,
+        "text_en": "What are the most visited religious sites in Surat?",
+        "text_gu": "સુરતમાં સૌથી વધુ મુલાકાત લેવાતા ધાર્મિક સ્થળો કયા છે?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      },
+      {
+        "id": 34,
+        "text_en": "What role does the Tapi River play in Surat's tourism?",
+        "text_gu": "તાપી નદી સુરતના પર્યટનમાં શું ભૂમિકા ભજવે છે?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      }
+    ],
+    "region_and_language": [
+      {
+        "id": 35,
+        "text_en": "What are the different Gujarati dialects spoken in Surat?",
+        "text_gu": "સુરતમાં બોલાતા ગુજરાતી ભાષાના વિવિધ બોલીઓ કઈ છે?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      },
+      {
+        "id": 36,
+        "text_en": "How does code-switching occur in Surat's multilingual population?",
+        "text_gu": "સુરતની બહુભાષી વસ્તીમાં કોડ-સ્વીચિંગ કેવી રીતે થાય છે?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      },
+      {
+        "id": 37,
+        "text_en": "How has Surat's linguistic landscape changed over the past decade?",
+        "text_gu": "છેલ્લા દસકામાં સુરતની ભાષાકીય દૃશ્યાવલી કેવી રીતે બદલાઈ છે?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      },
+      {
+        "id": 38,
+        "text_en": "How do different communities in Surat maintain their native languages?",
+        "text_gu": "સુરતમાં વિવિધ સમુદાયો તેમની માતૃભાષા કેવી રીતે જાળવી રાખે છે?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      },
+      {
+        "id": 39,
+        "text_en": "What are the influences of Hindi and English on Surat's Gujarati dialect?",
+        "text_gu": "સુરતની ગુજરાતી બોલી પર હિંદી અને અંગ્રેજીનો શું પ્રભાવ છે?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      }
+    ],
+    "controversial_topics": [
+      {
+        "id": 40,
+        "text_en": "What are the current urban development plans in Surat?",
+        "text_gu": "સુરતમાં વર્તમાન શહેરી વિકાસ યોજનાઓ કઈ છે?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      },
+      {
+        "id": 41,
+        "text_en": "How does Surat manage flood risks due to the Tapi River?",
+        "text_gu": "તાપી નદીને કારણે સુરત પૂરના જોખમોનું નિર્માણ કેવી રીતે કરે છે?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      },
+      {
+        "id": 42,
+        "text_en": "What are the environmental challenges facing Surat?",
+        "text_gu": "સુરત સામે કઈ પર્યાવરણીય પડકારો છે?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      },
+      {
+        "id": 43,
+        "text_en": "What are the migration patterns to Surat, and what are their impacts?",
+        "text_gu": "સુરતમાં સ્થળાંતરના નમૂનાઓ કયા છે અને તેમની અસરો શું છે?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      },
+      {
+        "id": 44,
+        "text_en": "How does the local government in Surat address public health issues?",
+        "text_gu": "સુરતની સ્થાનિક સરકાર જાહેર આરોગ્ય સમસ્યાઓનું નિરાકરણ કેવી રીતે કરે છે?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      },
+      {
+        "id": 45,
+        "text_en": "What are the initiatives for sustainable development in Surat?",
+        "text_gu": "સુરતમાં ટકાઉ વિકાસ માટેની પહેલો કઈ છે?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      },
+      {
+        "id": 46,
+        "text_en": "How does Surat's administration handle waste management?",
+        "text_gu": "સુરતની પ્રશાસન કચરા વ્યવસ્થાપનનું નિયંત્રણ કેવી રીતે કરે છે?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      },
+      {
+        "id": 47,
+        "text_en": "How does Surat address issues related to labor exploitation in the diamond industry?",
+        "text_gu": "સુરત હીરા ઉદ્યોગમાં મજૂર શોષણ સંબંધિત મુદ્દાઓનું નિરાકરણ કેવી રીતે કરે છે?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      },
+      {
+        "id": 48,
+        "text_en": "What are the challenges faced by marginalized communities in Surat?",
+        "text_gu": "સુરતમાં સીમાંત સમુદાયો સામે કઈ પડકારો છે?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      },
+      {
+        "id": 49,
+        "text_en": "How does Surat balance industrial growth with environmental sustainability?",
+        "text_gu": "સુરત ઔદ્યોગિક વિકાસ અને પર્યાવરણીય ટકાઉપણું કેવી રીતે સંતુલિત કરે છે?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      },
+      {
+        "id": 50,
+        "text_en": "What are the debates around cultural preservation versus modernization in Surat?",
+        "text_gu": "સુરતમાં સાંસ્કૃતિક સંરક્ષણ વિરુદ્ધ આધુનિકીકરણની ચર્ચાઓ કઈ છે?",
+        "opinion": "What do you think of the response, what will other person's opinion likely to be? Please only answer with ‘very negative’, ‘negative’, ‘neutral’, ‘positive’, ‘very positive’. IMPORTANT! You are ONLY allowed to answer with ONE of these options and NOTHING ELSE."
+      }
+    ]
+  }
+}
