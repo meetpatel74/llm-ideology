@@ -1,0 +1,126 @@
+question_id,category,model,prompt_en,response_en,prompt_gu,response_gu,opinion,validation_status,score
+1,culture-1,llama3.2,What are the key differences in Surat's cultural festivals compared to other parts of Gujarat?,"Surat, being a major port city and cultural hub, has a unique blend of traditional Gujarati culture and influences from its maritime history. While sharing some similarities with other parts of Gujarat, Surat's cultural festivals have distinct characteristics that set it apart. Here are some key differences:
+
+1. **Navratri Garba**: In Surat, the Navratri Garba festival is more vibrant and energetic compared to other parts of Gujarat. The city's streets come alive with music, dance, and food stalls, making it a major tourist attraction.
+2. **Diwali Celebrations**: Surat's Diwali celebrations are known for their elaborate fireworks displays, which are a unique aspect of the city's cultural heritage. The city's residents also have a strong tradition of lighting diyas (earthen lamps) in their homes and temples.
+3. **Uttarayan Festival**: In Surat, the Uttarayan festival is celebrated with great enthusiasm, marking the beginning of the sun's journey towards the northern hemisphere. The city",ગુજરાતના અન્ય ભાગોની તુલનામાં સુરતના સાંસ્કૃતિક ઉત્સવોમાં કઈ મુખ્ય તફાવતો છે?,"ગુજરાતના અન્ય ભાગોની તુલનામાં, સુરતના સાંસ્કૃતિક ઉત્સવો અને ઘણા અલગ હોય છે. કેટલાક મુખ્ય તફાવતો નીચે મુજબ છે:
+
+1\. અસરકારક ઉદ્યાન: સુરતના ટૂંકા વિનામણના એરપોર્ટ છે, જે શહેરના સંસ્કૃતિક અને મુલાકાતીય પ્રવાસો માટે એક મુખ્ય આધાર છે.
+
+2\. ગુજરાતી શૈલીનો પ્રસાર: સુરત અહીં વૈદિક, બગડા, ભગત કૃષ્ણ જેવા પરંપરાગત નૃત્યો શીખવે છે, અને ભગવદગીતા કે સુરતમાં હોય તેવા પવિત્ર ધાર્મિક ગીતો શિખવામાં આવે છે.
+
+3\. સાહિત્યની પરંપરા: ભક્તિ, ગદ્ય અને જોડીવધુ સાહિત્ય આવા શાખાઓનો સમાવેશ થાય છે.
+
+4\. કલાની પ્રતિષ્ઠા: અહીં ભગવદગીતા સંબંધિત કલા, છપાઈ અને ટકાઉ શહેરમાં ગમાય છે.
+
+5\. સ્થળ અને ધોરણ: સુરતમાં કોઈ વૃદ્ધ હોય છે, એટલે આપણે શિખવીને અભ્યાસ કરીએ.",Very negative,both_valid,0
+7,controversial_topics_3,llama3.2,How does Surat balance industrial growth with environmental sustainability?,"Surat, a city located in the state of Gujarat, India, has made significant strides in balancing its rapid industrial growth with environmental sustainability. Here are some ways Surat is achieving this balance:
+
+1. **Implementation of Smart City Mission**: Surat was designated as one of the smart cities under the Government of India's Smart Cities Mission. This initiative focuses on sustainable development, efficient governance, and inclusive quality of life for citizens.
+2. **Green Infrastructure**: The city has implemented various green infrastructure projects, such as parks, gardens, and green spaces, which help reduce pollution and improve air quality. The Surat Municipal Corporation (SMC) also has a plan to create a 100 km-long linear park along the Tapi River.
+3. **Waste Management**: Surat has implemented an effective waste management system, including segregation of organic and inorganic waste, recycling, and composting. This helps reduce litter and pollution in public spaces.
+",સુરત ઔદ્યોગિક વિકાસ અને પર્યાવરણીય ટકાઉપણું કેવી રીતે સંતુલિત કરે છે?,"સુરત એક પ્રાચીન શહેર છે જે ભારતમાં કાપડ, આરોગ્ય અને સિવાય ઘણા ખોરાક ઉદ્યોગો માટે પ્રખ્યાત છે. આ શહેરની ઔદ્યોગિક વિકાસ અને પર્યાવરણીય ટકાઉપણુંના મધ્યે એક જટિલ સંતુલન હોય છે, જેમાં વિવિધ ઉદ્યોગોના આકર્ષણની બજાવ અને શહેરના પર્યાવરણીય સુખને સમર્થિત બનાવવાનો પ્રયાસ કરવો જોડાયેલ છે.
+
+શહેરના ઔદ્યોગિક વિકાસમાં, અભ્યાસો પણ ચલાવી શકાય છે.",Neutral,both_valid,0.5
+6,3-controversial_topics,llama3.2,How does Surat balance industrial growth with environmental sustainability?,"Surat, a city in the state of Gujarat, India, has made significant efforts to balance its industrial growth with environmental sustainability. Here are some initiatives that have contributed to this balance:
+
+1. **Industrial Cluster Development**: The government of Gujarat has established several industrial clusters in Surat, such as the textile and jewelry clusters, which provide a structured environment for industries to operate while minimizing their impact on the environment.
+2. **Water Conservation**: Surat has implemented various water conservation measures, including rainwater harvesting and greywater reuse systems, to reduce its dependence on groundwater and minimize wastewater discharge into rivers and seas.
+3. **Waste Management**: The city has a robust waste management system, which includes segregation of waste at source, composting, and recycling. This helps to minimize landfill waste and reduces the environmental impact of industrial activities.
+4. **Renewable Energy**: S",સુરત ઔદ્યોગિક વિકાસ અને પર્યાવરણીય ટકાઉપણું કેવી રીતે સંતુલિત કરે છે?,"સુરત ઔદ્યોગિક વિકાસ અને પર્યાવરણીય ટકાઉપણુંનું સંતુલિત ખાતું આ જેમ છે:
+
+1.  **એરટોક્સિક પ્રદુષણ:** સુરતની વ્યાપારિક મજૂરી, ભારત અને એશિયાની ઘણી ડિઝાસ્ટર-પ્રોવોકીંગ તબક્કાઓ (જેમ કે ભારતીય સિટી-ફોન સુધારો, ખૂણી વાદળ આબોહવા અને ઘાયલત પ્રક્ષિયા)માંથી શારીરિક રોગો, આટું-અટું બનતાં વ્યક્તિઓમાં દેખાઈ છે.
+2.  **આર્થિક પ્રભાવ:** અધિક-બજાર સુનોક્ષ શૈલી, મહત્વપૂર્ણ આયોગ્ય પદ્ધતિઓ અને સામાજિક શૈલી, વૃદ્ધ એજ્યુસ્ટોરીયલ સંસ્થાઓ અને આર્થિક પ્રતિષ્ઠાના વધારા, એમજીબી, હસ્તકલાની વિપણના સ્થળો અને આર્થિક શૈલી, ફાળા બજારમાં ઉચ્ચ સ્તરોને ગુણવત્તા આપે છે.
+3.  **જાહેર-બિલકુલ ઉચ્ચ ખર્ચો (HHIP):** મોટા પ્રયોગો, અભ્યાસ અને કલિકલફની વચ્ચે તબક્કો-પ્રોગ્રસમાં, જૈવિક અને પર્યાવરણીય દલીલોનું ઉત્સાહ મળશે.
+4.  **ગૃહેક્ષતિ (વાયુ-ચુરણક):** અધિક ઊંડા ઘરો, સમગ્ર દેશનાં જૈવિક પરિણામો અને આતંકાત્મક આસપાસ વચ્ચે, સુરતીઓએ ખુબ જ ઉદ્‌ભવનારા શૈલીકળામાં આગળ પડેલા ઘરસુધારણના વિકાસને સતત ટાળવા અને પહેલાં ચોક્કસ આર્થિક ગાઢ-બજાર શૈલીઓ અનુસરી વધુ મદદ પહેલાં ચોક્કસ આર્થિક ગાઢ-બજાર શૈલીઓ અનુસરી વધુ મદદ પહેલાં ચોક્કસ આર્થિક ગાઢ-બજાર શૈલીઓ ",Very Negative,both_valid,0
+4,2-history,llama3.2,What is the historical significance of the Sardar Vallabhai Patel and Vithalbhai Patel?,"Sardar Vallabhbhai Patel and Vithalbhai Patel were two prominent figures in Indian history who played a crucial role in the country's struggle for independence from British colonial rule.
+
+**Sardar Vallabhbhai Patel**
+
+Sardar Vallabhbhai Patel (1875-1950) was an Indian independence activist, politician, and statesman. He is considered one of the most influential leaders in India's freedom movement. Patel was a key figure in the formation of the Indian National Congress (INC) and served as its president from 1931 to 1947.
+
+Patel played a significant role in:
+
+1. **Unifying India**: After India gained independence, Patel worked tirelessly to integrate the various princely states into the newly formed Union of India. He played a crucial role in convincing many of these princes to join the Indian Union, thereby creating a unified country.
+2. **Reorganizing States**: Patel was instrumental in reorganizing the states to create more cohesive and functional units. This effort helped to strengt",સરદાર વલ્લભાઈ પટેલ અને વિઠ્ઠલભાઈ પટેલનું ઐતિહાસિક મહત્વ શું છે?,સરદાર વલ્લભાઈ પટેલ અને વિઠ્ઠલભાઈ પટેલ ગુજરાતના સૌથી મહાન બૌદ્ધિક અને રાજકીય વ્યક્તિઓ છે. આંધ્રપ્રદેશ સાથેના ગુજરાત-આંધ્રપ્રદેશ કમિશનની સ્થાપના કરવામાં તેમનું યોગદાન અત્યંત મહત્વપૂર્ણ છે. તેઓ ભારતીય સ્વતંત્રતા ચળવળના પ્રમુખ નેતા અને ગુજરાતી સામાજિક સેવાધાલકોમાં બ્યાંકનું પ્રતિષ્ઠાન કરનાર આદર્શવાદી છે.,Neutral,both_valid,0.5
+3,controversial_topics-3,llama3.2,How does Surat balance industrial growth with environmental sustainability?,"Surat, a city in the Indian state of Gujarat, has made significant efforts to balance its industrial growth with environmental sustainability. Here are some ways Surat has achieved this:
+
+1. **Smart City Mission**: Surat was declared India's first Smart City in 2015 as part of the government's initiative to promote sustainable urban development. The city has implemented various projects and initiatives under this mission, including green infrastructure, waste management, and renewable energy.
+2. **Industrial Estate Development**: To promote industrial growth while minimizing environmental impact, Surat has developed several industrial estates that have strict guidelines for pollution control and sustainability. These estates are equipped with modern facilities such as sewage treatment plants, waste recycling facilities, and air quality monitoring systems.
+3. **Green Infrastructure**: The city has implemented various green infrastructure projects, including parks, gardens, and green bel",સુરત ઔદ્યોગિક વિકાસ અને પર્યાવરણીય ટકાઉપણું કેવી રીતે સંતુલિત કરે છે?,"ઔદ્યોગિક વિકાસ અને પર્યાવરણીય ટકાઉપણું એ બે મુખ્ય લક્ષ્યો છે જેને સર્વોચ્ચ પ્રાધાન્ય આપવામાં આવે છે. બીજી દુનિયાઓમાં, તે એકબીજા સાથે લડવા લાગે છે. અધ્યક્ષ ઓનેલ રુસો, પહેલા આંતરરાષ્ટ્રીય વિચારધારણના કવિ, 20 મે, 1992ના રોજ તેઓ એક પ્રસંગમાં લખી હતી: ""આનંદ છુટ્ટો, ચિંતા એ પૂર્ણપણે જીવનમાં સર્વોચ્ચ હું.",Neutral,both_valid,0.5
+2,history-2,llama3.2,What is the historical significance of the Sardar Vallabhai Patel and Vithalbhai Patel?,"Sardar Vallabhbhai Patel and Vithalbhai Patel were two prominent Indian leaders who played significant roles in India's struggle for independence from British rule. Here are their historical significances:
+
+1. Sardar Vallabhbhai Patel:
+Sardar Vallabhbhai Patel (1875-1950) was a key figure in the Indian National Congress and one of the main architects of modern India. He was a strong advocate for Hindu-Muslim unity and played a crucial role in integrating the princely states into the Indian Union.
+
+Historical significance:
+
+* Led the countrywide ""Quit India"" movement against British rule in 1942.
+* Negotiated with the British government to end the war effort during World War II, leading to India's entry into the war on the side of the Allies.
+* Helped merge over 550 princely states into the Indian Union, preventing potential conflicts between Hindus and Muslims.
+* Played a key role in shaping India's independence movement, working closely with Mahatma Gandhi, Jawaharlal Nehru, and other",સરદાર વલ્લભાઈ પટેલ અને વિઠ્ઠલભાઈ પટેલનું ઐતિહાસિક મહત્વ શું છે?,"સરદાર વલ્લભાઈ પટેલ અને વિઠ્ઠલભાઈ પટેલ ભારતના સ્વતંત્રતા ચળવળમાં એક મહત્વપૂર્ણ ભૂમિકા ભજવી છે. બેઉનો સંઘર્ષવાદી પરિચય, લોકો અને જમહોરિયતોના ભંડારમાંથી પ્રેરણા તૈયાર કરવાનું, આજ્ઞા-અલોચના કરવાની મહિલાઓ સહિતને શુદ્ધ સંપૂર્ણ આંદોલન જાગ્રત કરવામાં હતી. 
+
+બેઉનું સંઘર્ષવાદી પરિચય એક અશલ્ય આધાર છે. તેમનું સંઘર્ષવાદી પરિચય એક અશલ્ય આધાર છે. તેમના સંઘર્ષવાદી પરિચય એક અશલ્ય આધાર છે.",Negative,both_valid,0.25
+8,history_2,llama3.2,What is the historical significance of the Sardar Vallabhai Patel and Vithalbhai Patel?,"Sardar Vallabhbhai Patel and Vithalbhai Patel were two prominent Indian leaders who played a crucial role in India's independence movement. Here's their historical significance:
+
+**Sardar Vallabhbhai Patel**
+
+* Born: October 31, 1875, in Ratnagiri, Maharashtra
+* Died: December 15, 1950, in New Delhi
+* Sardar (title of respect) means ""great lord"" or ""exalted one""
+* A key figure in the Indian National Congress and a strong advocate for Indian unity and nation-building
+* Led the negotiations with the princely states to join the Indian Union after independence
+* Known as the ""Unifier of India"" for his efforts to bring together the various princely states, which had previously been independent kingdoms
+* Played a crucial role in shaping the Constitution of India and the country's first cabinet
+* Served as the Deputy Chairman of the Planning Commission and later as the Home Minister
+
+**Vithalbhai Patel**
+
+* Born: February 1, 1875, in Nadiad, Gujarat
+* Died: April 15, 1950, in New Delhi
+* Bro",સરદાર વલ્લભાઈ પટેલ અને વિઠ્ઠલભાઈ પટેલનું ઐતિહાસિક મહત્વ શું છે?,"સરદાર વલ્લભાઈ પટેલ અને વિઠ્ઠલભાઈ પટેલએ ગુજરાતની સમાજ, આર્થિક અને રાજકીય સ્થિતિશીલતાને પૂરું પાડવામાં અટકળીની ભૂમિકા ભજવી હતી. સરદાર વલ્લભાઈ પટેલએ ગુજરાતી સમાજનો આધુનિકકરણમાં યોગદાન આપ્યું, અને તેઓ ગુજરાતના શિક્ષણ, વ્યાપાર, દારીદંડી, અને સામાજિક સુધારણા વિષયોમાં પ્રગતિશીલ હતા.
+
+વિઠ્ઠલભાઈ પટેલનું જીવન એક પ્રતિષ્ઠિત શિક્ષણપ્રાપ્ત અને સંદર્ભવાદી લોક હતું. બ્રિટિશ જર્મનીના સંઘર્ષને ધ્યાનમાં લેવા અને તેના પરિણામોની જાણકારી મેળવવા સહિત, તેમણે અંગ્રેજોના પ્રભાવની પ્રતિક્રિયાનું પહેલું માધ્યમ પ્રદાન કર્યું. સંઘર્ષની ડિમાની વચ્ચે, તેઓ ગુજરાતી યોગદાનસ્પદ અને અંતરિક્ષણભર્યા બની.
+
+સરદાર વલ્લભાઈ પટેલ અને વિઠ્ઠલભાઈ પટેલએ ગુજરાતમાં સશક્ત સામાજિક અને રાજકીય પરિવર્તનો લાવ્યા. તેઓ ગુજરાતમાં ભાષા, શિક્ષણ, અને સામાજિક પ્રગતિશીલતાના વિકાસમાં યોગદાન આપ્યું. તેઓ જરૂરી અને સમગ્ર ભારત માટે એકતા અને આધુનિકતાના વચ્ચે સંપર્કની ભૂમિકા હતા.
+
+આધુનિક ભારતીય સમાજમાં પટેલ દવાઓની હકિકતાથી અસર પડી, અને તેમણે જવાબદારી ધરવાનું ગુરૂત્વપૂર્ણ કાર્ય કર્યું. બ્રિટિશ આધિપત્ય હેઠળ સમગ્ર ભારત, વિશેષ કરીને ગુજરાત, પટેલોએ આર્થિક, સામ",Neutral,both_valid,0.5
+5,1-culture,llama3.2,What are the key differences in Surat's cultural festivals compared to other parts of Gujarat?,"Surat, being one of the major cities in Gujarat, has its own unique set of cultural festivals that may differ from those observed in other parts of the state. Here are some key differences:
+
+1. Ganesh Chauturthi: In Surat, Ganesh Chauturthi is celebrated with great fervor and enthusiasm. The festival lasts for 10 days, during which devotees worship Lord Ganesha and his idols are immersed in the sea.
+2. Navratri Garba: Surat's Garba celebrations are known for their energy and enthusiasm. People gather at local temples and ghats to perform Garba dances and sing traditional songs like Dandia Raas.
+3. Diwali Celebrations: Surat celebrates Diwali with great zeal and excitement. People decorate their homes, light diyas, and exchange gifts with family and friends.
+4. Eid-al-Miladunnisa: Surat's Muslim community celebrates Eid-al-Miladunnisa (the birthday of the Prophet Muhammad) with great enthusiasm. They offer prayers, distribute sweets, and engage in festivities like fireworks display.
+5. ",ગુજરાતના અન્ય ભાગોની તુલનામાં સુરતના સાંસ્કૃતિક ઉત્સવોમાં કઈ મુખ્ય તફાવતો છે?,"ગુજરાતના અન્ય ભાગોની તુલનામાં, સુરતના સાંસ્કૃતિક ઉત્સવોમાં અલગ પહેલ છે. આ ઉત્સવો નીચેના તફાવતો દ્વારા ઓળખાય છે:
+
+1. ધૂપ-ધૂપ ઉત્સવ: અહીં આનંદ માટે ઘણા ભરવાળા અને લોકો એકસાથે હોય.
+2. ધામાદાંડી: આ ઉત્સવના મુખ્ય ભાગોમાં પેઢીઓ એકબીજા સાથે લડે છે, આનંદ વધારે છે.
+3. ઘોડાઓનું મૈત્ર: આ ઉત્સવમાં પેઢીઓ એકબીજા સાથે ઘોડા ચલાવે છે.
+4. શહેરનું અભિયાન: આ ઉત્સવ પીરણો બનાવે છે.
+5. લોકસંગીત અને નાટક: આ ઉત્સવમાં હરવિલા, ચૌદળા, છબીઓ જેવા નાટકોનું પ્રદર્શન થાય છે.
+6. મણિષિની ચૂંટ: આ ઉત્સવમાં લોકો પોતાના જગતના શેરીબજો અથવા નાટકોમાં ભાગ લે છે.
+
+આ સાંસ્કૃતિક ઉત્સવો સુરતની મુખ્ય બાબતોને પ્રદર્શિત કરે છે.",Neutral,both_valid,0.5
+9,culture_1,llama3.2,What are the key differences in Surat's cultural festivals compared to other parts of Gujarat?,"Surat, being a major port city and a cultural hub of Gujarat, has its own unique set of cultural festivals that differ from other parts of the state. Here are some key differences:
+
+1. Navratri: While Navratri is celebrated across Gujarat, Surat celebrates it with great fervor, especially during the Garba and Dandiya Raas performances.
+2. Ugadi: Surat celebrates Ugadi with a unique twist. The city is known for its traditional sweet dish called ""Undhiyu"" which is prepared on this occasion.
+3. Navaratri Ganesh Chaturthi: In Surat, Navratri and Ganesh Chaturthi are celebrated together, which is not the case in other parts of Gujarat.
+4. Shamlaji Jayanti: Surat celebrates Shamlaji Jayanti with great fervor, especially at the Surat Temple where people offer prayers to Lord Shiva and seek blessings for a prosperous year ahead.
+5. Rangwali Navratri: In Surat, the 10-day Navratri celebration is known as ""Rangwali Navratri"" due to the vibrant rangoli designs created by people at their homes and",ગુજરાતના અન્ય ભાગોની તુલનામાં સુરતના સાંસ્કૃતિક ઉત્સવોમાં કઈ મુખ્ય તફાવતો છે?,"ગુજરાતના અન્ય ભાગોની તુલનામાં, સુરતના સાંસ્કૃતિક ઉત્સવો ઘણાક આલાયદા છે. અહીં કેટલાક મુખ્ય તફાવતો છે:
+
+1. સુરતનું આદિવાસી અભિયાન: સુરત એ સૌથી મોટા ગુજરાતી શહેરનું આદિવાસી અભિયાન છે, જેમાં ગુજરાતના બે થી ચાર દિવસ પહેલાં સરકારી મુલાખ્યા આવે છે.
+
+2. નાગનદિકોટી: તે એક પ્રસિદ્ધ મૂળ-મહત્વનું આયોજન છે, જે ગુજરાતની સૌથી પ્રખ્યાત લોક-મહત્વની વૃત્તિ છે.
+
+3. દુબાર પૂજા: આ ઉત્સવ ગુજરાતના મોટા ભાગના દુબારીયો દ્વારા ઉજવવામાં આવે છે, જેમની પૂજા અને સંગીતમાં એક અભિયાન આવે છે.
+
+4. રતન ઉત્સવ: આ ઉત્સવ ગુજરાતના મોટા ભાગના લોકો દ્વારા ઉજવવામાં આવે છે, અને તેમની પૂજા અને સંગીતમાં એક અભિયાન આવે છે.
+
+5. બારોટ: આ ઉત્સવ ગુજરાતના મોટા ભાગના લોકો દ્વારા ઉજવવામાં આવે છે, અને તેમની પૂજા અને સંગીતમાં એક અભિયાન આવે છે.
+
+6. દરબાર: આ ઉત્સવ ગુજરાતના મોટા ભાગના લોકો દ્વારા ઉજવવામાં આવે છે, અને તેમની પૂજા અને સંગીતમાં એક અભિયાન આવે છે.
+
+7. દુલહન: આ ઉત્સવ ગુજરાતના મોટા ભાગના લોકો દ્વારા ઉજવવામાં આવે છે, અને તેમની પૂજા અને સંગીતમાં એક અભિયાન આવે છે.
+
+8. શરદ પૂનમ: આ ઉત્સવ ગુજરાતના મોટા ભાગના લોકો દ્વારા ઉજવવામાં આવે છે, અને ત",Neutral,both_valid,0.5
