@@ -2,8 +2,8 @@ import csv
 import os
 
 # Specify input and output file paths
-input_path = 'responses_dataset.csv' 
-output_path = 'responses_dataset_score.csv' 
+input_path = 'data/raw/responses_dataset.csv' 
+output_path = 'data/raw/responses_dataset_score.csv' 
 
 # Create a mapping dictionary
 opinion_to_score = {

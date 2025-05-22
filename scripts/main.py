@@ -13,7 +13,7 @@ logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s',
     handlers=[
-        logging.FileHandler('ollama_queries.log'),
+        logging.FileHandler('logs/ollama_queries.log'),
         logging.StreamHandler(sys.stdout)]
 )
 
@@ -52,7 +52,7 @@ def warm_up_model(model: str, max_retries: int = 3, timeout: int = 300) -> bool:
 def load_questions(file_path: str) -> List[Dict]:
     """Load questions from JSON file with validation."""
     try:
-        with open(file_path) as f:
+        with open('data/raw/prompt.json') as f:
             data = json.load(f)
             
         questions = []
@@ -107,7 +107,7 @@ def process_questions(questions: List[Dict], output_file: str):
         pass
 
     with open(output_file, "a", newline="") as f, \
-         ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+        ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
         
         writer = csv.writer(f)
         if f.tell() == 0:
@@ -181,7 +181,7 @@ def process_questions(questions: List[Dict], output_file: str):
 
 if __name__ == "__main__":
     try:
-        questions = load_questions("questions.json")  # Update filename
+        questions = load_questions('data/raw/prompt.json')
         # Warm up models and filter out unsuccessful ones
         successful_models = []
         for model in MODELS:
@@ -193,7 +193,7 @@ if __name__ == "__main__":
             logging.error("No models available after warm-up. Exiting.")
             sys.exit(1)
             
-        process_questions(questions, "llm_responses.csv")  # Update filename
+        process_questions(questions, "data/raw/responses_dataset.csv")
         logging.info("Processing completed successfully!")
     except Exception as e:
         logging.error(f"Critical error: {str(e)}")
